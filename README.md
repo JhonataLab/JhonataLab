@@ -1,5 +1,27 @@
 ## Olá, meu nome é José Jhonata!
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+🚀 Graduando em Ciência da Computação (UniFavip) com formação técnica em Desenvolvimento de Sistemas. Atualmente explorando os fundamentos da computação e consolidando habilidades práticas de programação para criar projetos de alto impacto.
+</p>
+
+<p align="left">
+  🦄 Linguagens: **C++, JavaScript, Python, CSS, HTML**
+</p>
+
+<p align="left">
+  💌 Adoro conhecer outras pessoas da área e compartilhar conhecimentos. Se quiser bater um papo, é só me chamar: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?ogbl#inbox" alt="Gmail"/></a>
+
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=(https://www.instagram.com/jhonata__jose?igsh=aXdzdXp5d3N5ejM0)" alt="Instagram"/></a>
+</p>
+
 ### ⚙️ GitHub Analytics
 
 <table>
